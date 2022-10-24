@@ -1,5 +1,4 @@
 package Exercise1;
-
 public class Example
 {
 	@JsonIgnore(Name="Sohail", DoB="01-08-2000")
